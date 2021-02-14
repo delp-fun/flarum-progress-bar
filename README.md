@@ -1,17 +1,12 @@
-# Rainbow Comic Sans
+# ProgressBar based on Rainbow Comic Sans
 
 The most useless [Flarum](http://flarum.org/) extension (yet)
 
 Install:
 
-    composer require clarkwinkelmann/flarum-ext-comicsans
+   composer require delp/flarum-progress-bar
 
 Usage:
 
-    [COMIC]Hello world[/COMIC]
+    [PBAR]30[/PBAR]
 
-## Support
-
-Do you seriously expect support for this ?
-
-Okay, just head over to the Issues and I'll help you !
