@@ -1,6 +1,6 @@
 {
-    "name": "delp/flarum-ext-comicsans",
-    "description": "Turn text into Comic Sans for no reason",
+    "name": "delp/flarum-progress-bar",
+    "description": "ProgressBar",
     "keywords": [
         "extension",
         "flarum",
@@ -27,10 +27,10 @@
     },
     "extra": {
         "flarum-extension": {
-            "title": "Comic Sans",
+            "title": "ProgressBar",
             "category": "formatting",
             "icon": {
-                "name": "fas fa-font",
+                "name": "fas fa-tasks",
                 "backgroundColor": "#000",
                 "color": "#87d37c"
             }
