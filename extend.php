@@ -11,8 +11,8 @@ return [
     (new Extend\Formatter)
         ->configure(function (Configurator $config) {
             $config->BBcodes->addCustom(
-                '[COMIC]{TEXT}[/COMIC]',
-                '<span class="comicsans">{TEXT}</span>'
+                '[pbar]{TEXT}[/pbar]',
+                '<progress id="progressBar" max="100" value="{TEXT}">'
             );
         })
 ];
