@@ -6,7 +6,6 @@
         "flarum",
         "comicsans"
     ],
-    "minimum-stability": "dev",
     "type": "flarum-extension",
     "license": "MIT",
     "authors": [
@@ -21,6 +20,7 @@
         "source": "https://github.com/clarkwinkelmann/flarum-ext-comicsans",
         "forum": "https://discuss.flarum.org/d/5293"
     },
+    "minimum-stability": "dev",
     "require": {
         "flarum/core": "^0.1.0-beta.14",
         "flarum/bbcode": "^0.1.0-beta.12"
